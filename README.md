@@ -1,3 +1,4 @@
+<img src="https://github.com/stepbart/stepbart/blob/main/title-image.jpg">
 <h1 align="left">Hi 👋, I'm Bartek</h1>
 <h3 align="left">Java Developer</h3>
 
