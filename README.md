@@ -1,6 +1,17 @@
 <h1 align="left">Hi 👋, I'm Bartek</h1>
 <h3 align="left">Java Developer</h3>
 
+- 📖 Kodilla Java Bootcamp student
+
+- 🎹 **piano player**
+
+- 💻 Java Developer
+
+- ⚖ ex-lawyer
+- 
+_________________________
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/stepbart](https://github.com/stepbart)
 
 - 📋 Check out my LinkedIn [https://www.linkedin.com/in/stepbart/](https://www.linkedin.com/in/stepbart/)
