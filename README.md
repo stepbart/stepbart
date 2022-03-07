@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bartek</h1>
-<h3 align="left">Java Developer🔭</h3>
+<h3 align="left">Java Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/stepbart](https://github.com/stepbart)
 
