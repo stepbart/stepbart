@@ -2,13 +2,14 @@
 <h1 align="left">Hi 👋, I'm Bartek</h1>
 <h3 align="left">Java Developer</h3>
 
-- 📖 **Kodilla Java Bootcamp student**
-
-- 🎹 **piano player**
-
 - 💻 **Java Developer**
 
+- 📖 **Kodilla Java Bootcamp student**
+
 - ⚖ **ex-lawyer**
+
+- 🎹 **piano player**
+- 
 _________________________
 
 
