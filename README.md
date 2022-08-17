@@ -4,8 +4,6 @@
 
 - 💻 **Java Developer**
 
-- 📖 **Kodilla Java Bootcamp student**
-
 - ⚖ **ex-lawyer**
 
 - 🎹 **piano player**
